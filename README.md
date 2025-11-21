@@ -1,2 +1,2 @@
-# simple people-walking-detector project
+# A simple people-walking-detector project
 Made with python opencv
